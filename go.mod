@@ -1,4 +1,4 @@
-module github.com/okocraft/auth-service
+module github.com/okocraft/authlib
 
 go 1.25
 

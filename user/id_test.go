@@ -3,7 +3,7 @@ package user_test
 import (
 	"testing"
 
-	"github.com/okocraft/auth-service/user"
+	"github.com/okocraft/authlib/user"
 	"github.com/stretchr/testify/assert"
 )
 
